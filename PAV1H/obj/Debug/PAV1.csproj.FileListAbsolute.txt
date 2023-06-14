@@ -1,0 +1,12 @@
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1\bin\Debug\PAV1.exe.config
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1\bin\Debug\PAV1.exe
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1\bin\Debug\PAV1.pdb
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1\obj\Debug\PAV1.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1\obj\Debug\PAV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1\obj\Debug\PAV1.Frm_Escritorio.resources
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1\obj\Debug\PAV1.Frm_Login.resources
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1\obj\Debug\PAV1.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1\obj\Debug\PAV1.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1\obj\Debug\PAV1.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1\obj\Debug\PAV1.exe
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1\obj\Debug\PAV1.pdb

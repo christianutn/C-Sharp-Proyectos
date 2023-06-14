@@ -1,0 +1,59 @@
+CREATE TABLE Estado(
+id_estado int identity primary key,
+nombre varchar(50));
+
+CREATE TABLE Perfiles(
+id_perfil int identity primary key,
+nombre varchar(50));
+
+CREATE TABLE Usuarios(
+id_usuario int identity primary key,
+id_perfil int,
+n_usuario varchar(50),
+contrasenia varchar(50),
+email varchar(50),
+borrado bit,
+apellido varchar(30),
+nombres varchar(30),
+cuil nchar(11),
+id_estado int,
+foreign key (id_estado) references Estados(id_estado),
+foreign key (id_perfil) references Perfiles(id_perfil));
+
+INSERT INTO Estados (nombre) Values ('Activo');
+INSERT INTO Estados (nombre) Values ('Desactivo');
+
+INSERT INTO Perfiles(nombre) Values ('Tester');
+INSERT INTO Perfiles(nombre) Values ('Desarrollador');
+INSERT INTO Perfiles(nombre) Values ('Analista');
+
+
+INSERT INTO Usuarios(id_perfil,n_usuario,password,email,borrado,apellido,nombre,cuil,id_estado) VALUES
+(1,1,'lionel.messi','123','lionel.messi@example.com',0,'Messi','Lionel','11111111111',1);
+
+INSERT INTO Usuarios(id_perfil,n_usuario,password,email,borrado,apellido,nombre,cuil,id_estado) VALUES
+(2,2,'cristiano.ronaldo','123','cristiano.ronaldo@example.com',0,'Ronaldo','Cristiano','22222222222',1);
+
+INSERT INTO Usuarios(id_perfil,n_usuario,password,email,borrado,apellido,nombre,cuil,id_estado) VALUES
+(3,3,'juan.perez','123','juan.perez@example.com',0,'Perez','Juan','33333333333',1);
+
+INSERT INTO Usuarios(id_perfil,n_usuario,password,email,borrado,apellido,nombre,cuil,id_estado) VALUES
+(4,3,'luis.robert','123','luis.robert@example.com',0,'Robert','Luis','44444444444',1);
+
+INSERT INTO Usuarios(id_perfil,n_usuario,password,email,borrado,apellido,nombre,cuil,id_estado) VALUES
+(5,1,'florencia.garcia','123','florencia.garcia@example.com',0,'Garcia','Florencia','55555555555',1);
+
+INSERT INTO Usuarios(id_perfil,n_usuario,password,email,borrado,apellido,nombre,cuil,id_estado) VALUES
+(6,2,'micaela.martinez','123','micaela.martinez@example.com',0,'Martinez','Micaela','66666666666',1);
+
+INSERT INTO Usuarios(id_perfil,n_usuario,password,email,borrado,apellido,nombre,cuil,id_estado) VALUES
+(7,3,'maximiliano.sanchez','123','maximiliano.sanchez@example.com',0,'Sanchez','Maximiliano','77777777777',1);
+
+INSERT INTO Usuarios(id_perfil,n_usuario,password,email,borrado,apellido,nombre,cuil,id_estado) VALUES
+(8,3,'javier.lopez','123','javier.lopez@example.com',0,'Lopez','Javier','88888888888',1);
+
+INSERT INTO Usuarios(id_perfil,n_usuario,password,email,borrado,apellido,nombre,cuil,id_estado) VALUES
+(9,1,'miguel.coronel','123','miguel.coronel@example.com',0,'Coronel','Miguel','99999999999',1);
+
+INSERT INTO Usuarios(id_perfil,n_usuario,password,email,borrado,apellido,nombre,cuil,id_estado) VALUES
+(10,2,'luciano.miguel','123','luciano.miguel@example.com',0,'Miguel','Luciano','10111111111',1);

@@ -1,0 +1,17 @@
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\bin\Debug\PAV1D.exe.config
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\bin\Debug\PAV1D.exe
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\bin\Debug\PAV1D.pdb
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\obj\Debug\PAV1D.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\obj\Debug\PAV1D.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\obj\Debug\PAV1D.Frm_Escritorio.resources
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\obj\Debug\PAV1D.Frm_Login.resources
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\obj\Debug\PAV1D.Formularios.Usuarios.Frm_ABM_Usuarios.resources
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\obj\Debug\PAV1D.Formularios.Usuarios.Frm_AltasUsuarios.resources
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\obj\Debug\PAV1D.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\obj\Debug\PAV1D.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\obj\Debug\PAV1D.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\obj\Debug\PAV1D.exe
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\obj\Debug\PAV1D.pdb
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\obj\Debug\PAV1D.Formularios.Usuarios.Frm_ModificacionesUsuarios.resources
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\obj\Debug\PAV1D.Formularios.Usuarios.Frm_MostrarUsuario.resources
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PAV1D\obj\Debug\PAV1D.Formularios.Usuarios.Frm_BorrarUsuario.resources
